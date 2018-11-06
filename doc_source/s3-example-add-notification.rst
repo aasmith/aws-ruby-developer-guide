@@ -16,7 +16,7 @@ Triggering a Notification When an Item is Added to an |S3| Bucket
 
 .. meta::
     :description:
-        Trigger a notification when items in an Amazon S3 bucket change using this AWS
+        Notify Lambda, SNS, and SQS when an item is added to an Amazon S3 bucket using this AWS
         SDK for Ruby code example.
     :keywords: AWS SDK for Ruby code examples, Amazon S3
 
